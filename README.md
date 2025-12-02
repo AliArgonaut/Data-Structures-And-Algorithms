@@ -18,7 +18,7 @@ For example:
 
 Inside each folder, you may find:
 
-- `solution.go` / `solution.py` / `solution.java` – Your implementation of the solution.
+- `solution.go` / `solution.py` / `solution.java` – implementation.
 - `README.md` – Optional notes, explanation, or approach for that problem.
 - `tests/` – Optional test cases for verification.
 
